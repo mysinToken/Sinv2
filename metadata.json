@@ -1,0 +1,50 @@
+{
+    "name": "My Sin Token",
+    "symbol": "SINv2",
+    "description": "Reward for good deeds and many more",
+    "image": "https://magenta-payable-jaguar-949.mypinata.cloud/ipfs/QmQ94qsz91w7FaPut1usGZde6ebTyBnUDKkzu7GzbdjeHn",
+    "external_url": "https://mysin.io",
+    "seller_fee_basis_points": 200,
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Gaming"
+        },
+        {
+            "trait_type": "Launch Date",
+            "value": "2024-07-29"
+        },
+        {
+            "trait_type": "Utility",
+            "value": "In-game rewards"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://magenta-payable-jaguar-949.mypinata.cloud/ipfs/QmQ94qsz91w7FaPut1usGZde6ebTyBnUDKkzu7GzbdjeHn",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DeZ9r97YajK4jrvHzvBToHk5mtm4SHtPv6CfM7dnx3eL",
+                "share": 100
+            }
+        ]
+    },
+    "socials": {
+        "twitter": "https://x.com/Mysin_Token",
+        "telegram": "Coming soon"
+    },
+    "website": "https://mysin.io",
+    "decimals": 6,
+    "initial_supply": 8080000000,
+    "max_supply": 8080000000,
+    "royalty_percentage": 2,
+    "email": "contact@mysin.io"
+}
